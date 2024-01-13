@@ -63,7 +63,7 @@ function App() {
                         <p className="py-4">Press ESC key or click on ✕ button to close</p>
                       </div>
                     </dialog>
-                    <button className="btn btn-xs flex items-center"><FaRegCalendarAlt />25-3-2023</button>
+                    <button className="btn btn-xs flex items-center"><FaRegCalendarAlt />25-4-2023</button>
                   </div>
                 </div>
               </div>
@@ -115,7 +115,7 @@ function App() {
                         <p className="py-4">Press ESC key or click on ✕ button to close</p>
                       </div>
                     </dialog>
-                    <button className="btn btn-xs flex items-center"><FaRegCalendarAlt />25-3-2023</button>
+                    <button className="btn btn-xs flex items-center"><FaRegCalendarAlt />25-4-2023</button>
                   </div>
                 </div>
               </div>
